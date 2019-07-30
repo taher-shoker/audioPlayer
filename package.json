@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https//taher-shoker.github.io/audio-player",
+  "homepage": "https//taher-shoker.github.io/audioPlayer",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.5.2",
