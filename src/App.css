@@ -1,0 +1,91 @@
+.App {
+  margin: 50px auto;
+  width: 100%;
+  text-align: center
+
+}
+
+.addAction{
+  background: #267cd8;
+  color: #FFF;
+  text-transform: uppercase;
+  border: none;
+  padding: 5px 10px;
+}
+.addAction:hover{
+  background: #1a4b80;
+  cursor: pointer;
+}
+.formStyle {
+  border: 1px solid #8a87877d;
+  width:80%;
+  margin: auto;
+  margin-top: 50px;
+  padding: 30px
+  
+
+}
+.formInput {
+  display: block;
+  width: 70%;
+  margin: auto;
+  margin-bottom: 10px;
+  padding: 7px;
+border: 1px solid #DDD;
+  border-radius: 4px
+  
+
+}
+.formAdd {
+  background: green;
+  color: #FFF;
+  text-transform: uppercase;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px
+
+}
+.formAdd:hover {
+  background: #20c997
+}
+
+/*================================*/
+.list{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.track {
+  width: 80%;
+  margin: 30px auto;
+  padding: 10px;
+  border: 1px solid #DDD;
+  text-align: left
+  
+}
+a:hover {
+  text-decoration: none
+}
+span{
+  font-weight: bolder;
+  font-size:20px
+}
+.deleteAction {
+  float: right;
+  background: red;
+  border: none;
+  color:#FFF;
+  cursor: pointer;
+  margin: 10px 0 
+  
+}
+
+.active {
+  background: #d0d4d4;
+  color: #fff; 
+  width: 80%;
+  margin: 30px auto;
+  padding: 10px;
+  border: 1px solid #DDD;
+  text-align: left
+}
